@@ -3,11 +3,10 @@ I'm Vaishnavi, an enthusiastic undergraduate student pursuing BTech in Electrica
 
 ---
 # About Me :
-- 👩‍💻 Full-stack Developer
-- 🌱 Exploring Machine Learning and AI
-- 📚 Constantly learning and growing
+- 👩‍💻 Currently, I'm exploring various web development frameworks and honing my coding expertise.
+- 💼 Actively seeking job opportunities in frontend and SDE (Software Development Engineer) roles
+- 📚 Eager to contribute to innovative projects and solve real-world challenges.
 - 📫 Contact me at: kaharvaishnavi@iitbhilai.ac.in
-
 
 ---
 # Languages and Skills stack:
