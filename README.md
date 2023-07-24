@@ -4,7 +4,7 @@ I'm Vaishnavi, an enthusiastic undergraduate student pursuing BTech in Electrica
 ---
 # About Me :
 - 📚 Eager to contribute to innovative projects and solve real-world challenges.
-- 💼 Actively seeking job opportunities in frontend and SDE (Software Development Engineer) roles
+- 💼 Actively seeking job opportunities in frontend developement and SDE roles
 - 📫 Contact me at: kaharvaishnavi@iitbhilai.ac.in
 
 ---
