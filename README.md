@@ -1,5 +1,10 @@
 ### Hi there 👋
+I'm Vaishnavi, an enthusiastic undergraduate student pursuing BTech in Electrical Engineering at IIT Bhilai.Despite my major in Electrical Engineering, I have a strong passion for the world of computer science and software development.
 
+- 👩‍💻 Full-stack Developer
+- 🌱 Exploring Machine Learning and AI
+- 📚 Constantly learning and growing
+- 📫 Contact me at: kaharvaishnavi@iitbhilai.ac.in
 <!--
 **Vaishnavi-Kahar/Vaishnavi-Kahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
